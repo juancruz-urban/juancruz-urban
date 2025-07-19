@@ -37,3 +37,4 @@ Desde que empecé a programar, descubrí que no era solo una carrera: era una pa
 
 - LinkedIn: [linkedin.com/in/juan-cruz-urban](https://www.linkedin.com/in/juan-cruz-urban-1b1907266) 
 - Email: urbanjuancruz@gmail.com
+- Portfolio: www.urbanjuancruz.com
