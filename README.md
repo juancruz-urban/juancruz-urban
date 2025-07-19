@@ -17,6 +17,7 @@ Desde que empecé a programar, descubrí que no era solo una carrera: era una pa
 - [**Federacion de Ajedrez Olavarria**](https://github.com/juancruz-urban/fao-frontend ) – Página para la federacion de ajedrez de mi ciudad.
 - [**Recetapp**](https://github.com/juancruz12345/Recetapp) – Generador de recetas con IA.
 - [**ComponentLab**](https://github.com/juancruz-urban/States-Generator) – Página para testear, modificar,crear o exportar componentes de React.
+- [**OverDOM**](https://github.com/juancruz-urban/OverDOM) - Extension de navegador estilo DevTools pero con una interfaz mas clara, práctica e intuitiva.
 
 ---
 
